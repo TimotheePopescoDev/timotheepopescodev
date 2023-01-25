@@ -10,6 +10,7 @@ My projects are mainly created with __PHP, Javascript, Python, C#, Flutter and t
 
 I registered on github to __discover learn and share__ new things, so feel free to follow me.✨😉
 
+***
 ## FR :
 
 Jeune codeur français, cela fait maintenant __3 ans__ que je me forme au métier de développement web. J'étudie actuellement  à l'IIM (en 3ème année dans le cursus Coding & Digital innovation).
