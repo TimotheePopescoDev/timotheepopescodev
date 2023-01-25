@@ -24,5 +24,5 @@ Je me suis inscrit sur github pour __découvrir apprendre et partager__ de nouve
 ***
 ## Ou me contacter :
 
-[![](https://github.com/TimotheePopesco/TimotheePopescoDev/linkedin.png)](https://www.linkedin.com/in/web-junior/)
+[![](linkedin.png)](https://www.linkedin.com/in/web-junior/)
 
